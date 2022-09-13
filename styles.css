@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    background-color: #fde047;
+    margin-bottom: 4rem;
+}
+
+body {
+    background-color: #fffbeb;
+}
+
+#btn-translate {
+    display: block;
+    border-radius: 0.6rem;
+    padding: 1rem;
+    background-color: #fffbeb;
+    border-color: transparent;
+    color: #fde047;
+    border: 0.1rem solid #fde047;
+}
+
+button {
+    margin: auto;
+    margin-top: 3rem;
+    border: 0.2rem solid #fde047;
+}
+
+#output {
+    border: 0.2rem solid #fde047;
+    display: flex;
+    justify-content: center;
+    background-color: #fffbeb;
+    margin: auto;
+    width: 40%;
+
+
+
+    height: 10vh;
+
+
+    padding: 1rem;
+
+
+}
+
+#txt-input {
+    border: 0.2rem solid #fde047;
+    display: flex;
+    justify-content: center;
+    background-color: #fffbeb;
+    width: 40%;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
